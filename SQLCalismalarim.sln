@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{519E8BFA-56F7-4C34-A4C7-31ED3DAD55A1}"
+	ProjectSection(SolutionItems) = preProject
+		SqlQuery_2021_12_06.sql = SqlQuery_2021_12_06.sql
+		SqlTablesCreateQueries.sql = SqlTablesCreateQueries.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13BBB01D-9C4D-4F53-BCEA-17B83E53093C}
+	EndGlobalSection
+EndGlobal
